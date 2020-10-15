@@ -25,20 +25,20 @@
 	background-repeat: no-repeat;
 	height: 50px;
 	width: 50px;
-	font-size: 8pt;
+	font-size: 10pt;
+}
+
+#Picture1{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #potato{
 	position: absolute;
 	top: 10px;
 	left: 15px;
-}
-
-#Picture1{
-	margin-top: 20px;
-    margin-bottom: 20px;
-    margin-right: 20px;
-    margin-left: 20px;
 }
 
 #Picture2{
