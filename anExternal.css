@@ -14,8 +14,8 @@
   border: 6px solid #73AD21;
   font-family: "courier";
   padding: 30px; 
-  width: 700px;
-  height: 200px; 
+  width: 650px;
+  height: 150px; 
 }
 
 
@@ -37,8 +37,9 @@
 
 #potato{
 	position: absolute;
-	top: 10px;
-	left: 15px;
+	top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
 
 #Picture2{
