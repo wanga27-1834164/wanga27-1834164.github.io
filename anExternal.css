@@ -1,0 +1,55 @@
+/* anExternalCSS */
+
+#Two paragraphs{
+	text-align: center;
+}
+
+#p1{
+	border: dotted 8px red;
+	font-family: "verdana";
+}
+
+#p2{
+  border-radius: 25px;
+  border: 6px solid #73AD21;
+  font-family: "courier";
+  padding: 30px; 
+  width: 700px;
+  height: 200px; 
+}
+
+
+#picture in picture{
+	background-image: url(p1.jpg);
+	background-size: 50px 50px;
+	background-repeat: no-repeat;
+	height: 50px;
+	width: 50px;
+	font-size: 8pt;
+}
+
+#potato{
+	position: absolute;
+	top: 10px;
+	left: 15px;
+}
+
+#Picture1{
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#Picture2{
+	float: right;
+}
+
+a:link, a:visited, a:hover, a:active {
+    background-color: blueviolet;
+    color: black;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
